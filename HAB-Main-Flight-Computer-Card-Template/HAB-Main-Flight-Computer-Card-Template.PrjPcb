@@ -123,6 +123,23 @@ GenerateClassCluster=0
 DocumentUniqueId=KRXNZZRN
 
 [Document6]
+DocumentPath=Sensors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RUKXJVWZ
+
+[Document7]
 DocumentPath=Power-Supplies.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMTWXNXM
 
-[Document7]
+[Document8]
 DocumentPath=MFC-Card-Template.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HMDLPXEH
 
-[Document8]
+[Document9]
 DocumentPath=HAB-Main-Flight-Computer-Card-Template.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
