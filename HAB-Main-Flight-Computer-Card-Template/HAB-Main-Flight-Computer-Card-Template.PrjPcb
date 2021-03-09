@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FBXDIWPQ
 
 [Document2]
-DocumentPath=Transceivers.SchDoc
+DocumentPath=CANbus.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,6 +89,23 @@ GenerateClassCluster=0
 DocumentUniqueId=OTYBIAZP
 
 [Document4]
+DocumentPath=EthernetBridge.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MQMROCJM
+
+[Document5]
 DocumentPath=ComputeModule.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,23 +121,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WDELZCEK
-
-[Document5]
-DocumentPath=Processor.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JZCIDTIB
 
 [Document6]
 DocumentPath=Sensors.SchDoc
